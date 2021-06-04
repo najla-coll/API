@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+}
+
+.list{
+  display: flex;
+  justify-content: space-around;
+  align-content: space-between;
+  flex-wrap: wrap;
+  margin: 40px;
+}
+h1{
+  text-align: center;
+  color: white;
+}
